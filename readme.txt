@@ -3,7 +3,7 @@ H
 This is a second new line.
 H
 Git has a mutable index called stage. Third.
-H
+Git tracks changes of files. Fourth.
 H
 H
 software
